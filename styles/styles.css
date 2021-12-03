@@ -1,0 +1,45 @@
+@import url(buttons.css);
+@import url(banner.css);
+@import url(cards.css);
+
+head {
+	margin: 0;
+	padding: 0;
+
+}
+a {
+	text-decoration: none;
+	color:  #000;
+	display: flex;
+	align-items: center;
+
+}
+h1 {
+	align-conter: center;
+
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	align-item: center;
+	font-family: Georgia, serif;
+
+}
+
+h3 {
+	font-family: Georgia, serif;
+	text-align: center;
+
+}
+h5 {  
+	font-family: Playfair Display;
+	border:0.5em solid black;
+	padding:1em;
+	width  : 4em;
+  	height : 4em;
+  	border-radius: 100%;
+  	text-align: center;
+  	margin-left: auto;
+  	margin-right: auto;
+}

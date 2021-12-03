@@ -1,0 +1,25 @@
+
+.card {
+	 width: 400px; 
+  margin: 0px auto; 
+  background-color: white; 
+  box-shadow: 0px 5px 20px #999;
+  align-items: center;
+
+}
+.card h1 {
+	font-family: Georgia, serif;
+	font-size: 20px;
+}
+.card h2 {
+	font-size: 20px;
+	font-family: Georgia, serif;
+}
+.card h3 {
+	font-size: 20px;
+	font-family: Georgia, serif;
+}
+.card h4 {
+	font-size: 20px;
+	font-family: Georgia, serif;
+}
